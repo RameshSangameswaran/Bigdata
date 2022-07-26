@@ -1,0 +1,2 @@
+I am trying for a few commands in hadoop 
+Also trying to program wordcount in python by using hadoop streaming
